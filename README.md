@@ -23,4 +23,4 @@
 
 <h2>Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/h%C3%A9ctor-gallardo-araya-a50a68211">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/hector-gallardo-araya/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
