@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Héctor Gallardo!</h1>
 
-- Currently studying Computer Science at Universidad de Santiago de Chile (USACH) 🖥️
+- Computer Science student at Universidad de Santiago de Chile (USACH) 🖥️
 - Learning and applying new skills everyday to become a great Software Engineer 📚💪
 
 <h2>Languages, technologies and tools that I have experience with:</h2>
