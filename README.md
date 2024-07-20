@@ -22,7 +22,8 @@
 ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <h2>Currently improving some programming skills at Leetcode:</h2>
-![Leetcode Stats](https://leetcard.jacoblin.cool/hgallardoaraya)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hgallardoaraya?theme=wtf&font=Rubik)
 
 <h2>Connect with me:</h2>
 
