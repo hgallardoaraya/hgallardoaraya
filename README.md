@@ -21,6 +21,9 @@
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
+<h2>Currently improving some programming skills at Leetcode:</h2>
+![Leetcode Stats](https://leetcard.jacoblin.cool/hgallardoaraya)
+
 <h2>Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/hector-gallardo-araya/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
